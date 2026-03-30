@@ -24,7 +24,7 @@
                 lower_layer {
                         bindings = <
    &trans &trans &trans &trans   &trans    &trans  &kp STAR  &kp N7 &kp N8 &kp N9 &kp PLUS  &trans
-   &trans &trans &trans &trans   &kp EQUAL &trans  &kp FLSH  &kp N4 &kp N5 &kp N6 &kp MINUS &trans
+   &trans &trans &trans &trans   &kp EQUAL &trans  &kp FSLH  &kp N4 &kp N5 &kp N6 &kp MINUS &trans
    &trans &trans &trans &trans   &trans    &trans  &kp PRCNT &kp N1 &kp N2 &kp N3 &kp FSLH  &trans
                         &kp LGUI &kp TAB   &trans  &kp SPACE &kp BSPC &kp ESC 
                         >;
@@ -43,7 +43,7 @@
                         bindings = <
    &trans &trans &trans   &trans    &trans    &trans   &kp LBRC  &kp LT   &kp SLASH &kp GT   &kp RBRC &trans
    &trans &trans &kp HASH &kp COLON &kp EQUAL &kp EXCL &kp EXCL  &kp LPAR &kp SQT   &kp RPAR &kp SEMI &trans
-   &trans &trans &trans   &trans    &kp MINUS &trans   &trans    &kp LBRK &kp DQT   &kp RBRK &trans   &trans
+   &trans &trans &trans   &trans    &kp MINUS &trans   &trans    &kp LBKT &kp DQT   &kp RBKT &trans   &trans
                           &kp LGUI  &trans    &kp RET  &kp SPACE &kp BSPC &kp ESC 
                         >;
                 };
