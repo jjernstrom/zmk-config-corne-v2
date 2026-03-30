@@ -41,9 +41,9 @@
 
                  symbol_layer {
                         bindings = <
-   &trans &trans &trans   &trans    &trans    &trans   &kp LBRC  &kp LT    &kp SLASH &kp GT   &kp RBRC &trans
-   &trans &trans &kp HASH &kp COLON &kp EQUAL &kp EXCL &kp EXCL  &kp LPAR  &kp SQT   &kp RPAR &kp SEMI &trans
-   &trans &trans &trans   &trans    &kp MINUS &trans   &trans    &kp LBRK  &kp DQT   &kp RBRK &trans   &trans
+   &trans &trans &trans   &trans    &trans    &trans   &kp LBRC  &kp LT   &kp SLASH &kp GT   &kp RBRC &trans
+   &trans &trans &kp HASH &kp COLON &kp EQUAL &kp EXCL &kp EXCL  &kp LPAR &kp SQT   &kp RPAR &kp SEMI &trans
+   &trans &trans &trans   &trans    &kp MINUS &trans   &trans    &kp LBRK &kp DQT   &kp RBRK &trans   &trans
                           &kp LGUI  &trans    &kp RET  &kp SPACE &kp BSPC &kp ESC 
                         >;
                 };
